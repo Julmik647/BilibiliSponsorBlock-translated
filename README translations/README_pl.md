@@ -5,7 +5,7 @@
   <sub>Logo by <a href="https://github.com/munadikieh">@munadikieh</a>. Modified by Yaodong</sub>
 </p>
 
-<h1 align="center">B站空降助手</h1>
+<h1 align="center">SponsorBlock dla Bilibili</h1>
 
 <div align="center">
 
@@ -17,23 +17,24 @@
 [![节省时间](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2F47.103.74.95%2Fapi%2FgetTotalStats&query=minutesSaved&suffix=%E5%88%86%E9%92%9F&label=%E5%85%B1%E8%8A%82%E7%9C%81&color=orange&cacheSeconds=3600)](https://www.bsbsb.top/stats/)
 
 
-| Chrome | Edge | FireFox | 从文件安装 | 讨论群 |
+| Chrome | Edge | FireFox | Zainstaluj z pliku | Grupa dyskusyjna | 
 |----------|----------|----------|----------|----------|
-| [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/eaoelafamejbnggahofapllmfhlhajdd?label=Chrome插件商店)](https://chrome.google.com/webstore/detail/eaoelafamejbnggahofapllmfhlhajdd) | [![Edge Web Store](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fkhkeolgobhdoloioehjgfpobjnmagfha&query=version&prefix=v&label=Edge插件商店&color=green)](https://microsoftedge.microsoft.com/addons/detail/khkeolgobhdoloioehjgfpobjnmagfha) | [![Firefox](https://img.shields.io/amo/v/bilisponsorblock?label=Mozilla插件商店)](https://addons.mozilla.org/zh-TW/firefox/addon/bilisponsorblock/) | [![文件安装](https://www.crxsoso.com/webstore/detail/eaoelafamejbnggahofapllmfhlhajdd)](https://www.crxsoso.com/webstore/detail/eaoelafamejbnggahofapllmfhlhajdd) | [![Group](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/bsbsb_top) [![QQ](https://img.shields.io/badge/371384235-EB1923?logo=tencent-qq&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Zp6HSzPkZy0xIU75Ljtc80CxY8PoyZ4Z&authKey=WlINewkGvx8rQhpBxYVj%2B9xMKgqAaVixxfgRgBgSXMdwmmst7BeWk7XflpvZrhOb&noverify=0&group_code=371384235) |
-
+| [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/eaoelafamejbnggahofapllmfhlhajdd?label=Chrome插件商店)](https://chrome.google.com/webstore/detail/eaoelafamejbnggahofapllmfhlhajdd) | [![Edge Web Store](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fkhkeolgobhdoloioehjgfpobjnmagfha&query=version&prefix=v&label=Edge插件商店&color=green)](https://microsoftedge.microsoft.com/addons/detail/khkeolgobhdoloioehjgfpobjnmagfha) | [![Firefox](https://img.shields.io/amo/v/bilisponsorblock?label=Mozilla插件商店)](https://addons.mozilla.org/zh-TW/firefox/addon/bilisponsorblock/) | [![Wydania na Githubie](https://github.com/Julmik647/BilibiliSponsorBlock-translated/releases)](https://github.com/Julmik647/BilibiliSponsorBlock-translated/releases) | [![Group](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/bsbsb_top) [![QQ](https://img.shields.io/badge/371384235-EB1923?logo=tencent-qq&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Zp6HSzPkZy0xIU75Ljtc80CxY8PoyZ4Z&authKey=WlINewkGvx8rQhpBxYVj%2B9xMKgqAaVixxfgRgBgSXMdwmmst7BeWk7XflpvZrhOb&noverify=0&group_code=371384235) |
+Wersja bez tłumaczenia, dostępna w języku chińskim | Wersja bez tłumaczenia, dostępna w języku chińskim | Wersja bez tłumaczenia, dostępna w języku chińskim | Wersja z tłumaczeniem na język angielski, dostępna na Chrome i Edge z poradnikiem pobierania i na Firefox bez poradnika | Grupa należy do twórcy wtyczki Bilibili SponsorBlock w języku chińskim, nie do twórcy tego tłumaczenia
 
 </div>
 
 
-受够了 B 站视频中无处不在的赞助广告了吗？受够了看了一半才发现的软广视频了吗？B 站空降助手是一款帮你精准空降到广告之后的浏览器插件。插件自动获取并跳过广告片段，让你的视频体验毫无中断！
+Czy masz już dość sponsorowanych reklam, które są wszechobecne w filmach Bilibili? Czy masz dość oglądania filmów, w których dopiero w połowie oglądania zdajesz sobie sprawę, że są to reklamy? Bilibili Sponsorblock to wtyczka do przeglądarki, która pomaga w precyzyjnym pomijaniu reklamy. Wtyczka automatycznie przechwytuje i pomija klipy reklamowe, dzięki czemu możesz cieszyć się nieprzerwanym oglądaniem wideo!
 
-除了广告之外，插件还支持跳过其他类别的片段，例如开场结尾的动画、一键三连提示，或者直接空降到视频封面的位置。插件中所有的标注片段都来自网友标注，您也可以提交自己的片段来为空降指挥部添砖加瓦。
+Oprócz reklam wtyczka obsługuje także pomijanie innych kategorii klipów, takich jak animacje otwierające i kończące, potrójne komunikaty uruchamiane jednym kliknięciem lub bezpośrednie przejście do okładki filmu. Wszystkie opatrzone komentarzami klipy we wtyczce pochodzą z komentarzy internautów. Możesz również przesłać własne klipy i podzielić się nimi z Bilibili SponsorBlock.
 
-想知道大佬们提交了多少片段？在[排行榜](https://www.bsbsb.top/stats/)看看吧。
+Chcesz wiedzieć, ile klipów nadesłali ci wielcy gracze? Sprawdź [tabelę wyników](https://www.bsbsb.top/stats/).
 
-目前本项目由我个人在业余时间维护，如果你想支持我，欢迎查看[赞助](https://www.bsbsb.top/donate/)。
+Możesz wesprzeć twórcę chińskiej wersji [tutaj](https://www.bsbsb.top/donate/).
 
-本插件移植自油管插件[SponsorBlock](https://github.com/ajayyy/SponsorBlock)，保留了大部分的 UI 和使用方法，加入一些了 B 站特色的功能。
+Fork ten dodaje język angielski do wtyczki [Bilibili SponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock).
+Chińska wersja wtyczki została przeniesiona z wtyczki YouTube [SponsorBlock](https://github.com/ajayyy/SponsorBlock), zachowując większość interfejsu użytkownika i metod użytkowania, a także dodając kilka funkcji specyficznych dla Bilibili.
 
 # 安装
 
