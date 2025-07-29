@@ -36,66 +36,62 @@ Możesz wesprzeć twórcę chińskiej wersji [tutaj](https://www.bsbsb.top/donat
 Fork ten dodaje język angielski do wtyczki [Bilibili SponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock).
 Chińska wersja wtyczki została przeniesiona z wtyczki YouTube [SponsorBlock](https://github.com/ajayyy/SponsorBlock), zachowując większość interfejsu użytkownika i metod użytkowania, a także dodając kilka funkcji specyficznych dla Bilibili.
 
-# 安装
+# Instalacja
 
-- 目前上架了[Chrome 应用商店](https://chromewebstore.google.com/detail/eaoelafamejbnggahofapllmfhlhajdd)，[Edge 应用商店](https://microsoftedge.microsoft.com/addons/detail/khkeolgobhdoloioehjgfpobjnmagfha)， [火狐应用商店](https://addons.mozilla.org/en-US/firefox/addon/bilisponsorblock/)。如果你知道更多流行的浏览器插件商店，欢迎留言~
+- Oryginalna wtyczka bez tłumaczenia jest dostępna na [Chrome](https://chromewebstore.google.com/detail/eaoelafamejbnggahofapllmfhlhajdd)，[Edge](https://chromewebstore.google.com/detail/eaoelafamejbnggahofapllmfhlhajdd)， [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bilisponsorblock/). Jeśli znasz więcej popularnych sklepów z wtyczkami do przeglądarek, zostaw wiadomość twórcy oryginalnej wtyczki.
 
-- 如果你无法打开上面的商店，可以尝试从这里下载crx文件安装：https://www.crxsoso.com/webstore/detail/eaoelafamejbnggahofapllmfhlhajdd
+- Wersję z tłumaczeniem zainstalujesz tutaj：https://github.com/Julmik647/BilibiliSponsorBlock-translated/releases
 
-- 或者可以从 [Github Release](https://github.com/hanydd/BilibiliSponsorBlock/releases/latest) 页面获取未打包的插件。
+Instalacja na przeglądarce Chrome i przeglądarkach opartych na Chromium (Edge, Brave, Opera...):
 
-    1. 根据您浏览器的类型下载适合的版本，Chrome、Edge、360 和基于 Chromium 的国产浏览器下载 `ChromiumExtension.zip`；火狐浏览器下载`FirefoxExtension.zip`。并解压缩。
+Pobierz plik BSBT_Chrome.zip
+Wypakuj go
+W przeglądarce wejdź do ustawień rozszerzeń (3 kropki -> Rozszerzenia -> Zarządzaj rozszerzeniami lub na pasku linku wpisz chrome://extensions/ )
+Włącz Tryb dewelopera
+Kliknij "Załaduj rozpakowane"
+Zaimportuj folder z wypakowanym rozszerzeniem
+# Funkcjonalność
 
-    1. 打开浏览器的插件管理页面，启用“开发者模式”，点击`加载已解压的拓展程序`，选择刚刚下载解压的插件文件夹，就可以完成安装。
+## Instrukcje
 
-# 功能
+Jeśli korzystałeś już z oryginalnej wtyczki YouTube, zauważysz, że zachowuje ona tę samą podstawową funkcjonalność i interakcje. Możesz spróbować jej użyć, postępując zgodnie z instrukcjami dla oryginalnej wtyczki.
 
-## 使用说明
+Najpierw możesz przekonać się, jak przyjemne jest precyzyjne pomijanie sekcji sponsorowanych, oglądając ten [przykładowy film](https://www.bilibili.com/video/BV1bY4y1v7Mb/)!
 
-如果你使用过 YouTube 的原插件，你会发现在核心功能和交互上，本插件基本没有做出大的改动。可以先参照原插件的使用方法尝试使用。
+Trwają prace nad instrukcjami wideo.
 
-可以先在这个[示例视频](https://www.bilibili.com/video/BV1bY4y1v7Mb/)上试一试精准空降的快乐！
+## ## Zmiany w porównaniu do [oryginalnej wtyczki](https://github.com/hanydd/BilibiliSponsorBlock)
 
-视频使用说明正在计划制作中。
+- naprawiono angielskie tłumaczenie
+- sprawiono by język angielski był domyślnym
 
-## 相比[原插件](https://github.com/ajayyy/SponsorBlock)变化
+## Plan aktualizacji funkcji
 
-- 放弃了多语言支持，只支持简体和繁体中文。
+odniesienie [Github Project](https://github.com/users/hanydd/projects/2/)
 
-- 放弃了移动端H5网页支持。
+# Serwer
 
-- 放弃了第三方镜像站支持。如果有使用人数多的镜像站，欢迎讨论添加支持。
+Kod serwera：https://github.com/hanydd/BilibiliSponsorBlockServer
 
-- 加入了绑定搬运视频的功能。绑定的油管视频可以自动从 SponsorBlock 数据库中获取片段信息。
-
-- 更新 UI。
-
-## 功能更新计划
-
-参考 [Github Project](https://github.com/users/hanydd/projects/2/)
-
-# 服务端
-
-服务端代码：https://github.com/hanydd/BilibiliSponsorBlockServer
-
-为了方便大家二次开发，所有片段的数据现在开放下载：https://bsbsb.top/database.zip
+Aby ułatwić rozwój wtórny, wszystkie dane fragmentów są teraz dostępne do pobrania：https://bsbsb.top/database.zip
 
 # API
 
-API文档：https://github.com/hanydd/BilibiliSponsorBlock/wiki/API
+API：https://github.com/hanydd/BilibiliSponsorBlock/wiki/API
 
-测试视频 [BV14741127BN](https://www.bilibili.com/video/BV14741127BN)
+Film testowy [BV14741127BN](https://www.bilibili.com/video/BV14741127BN)
 
-本项目对 API 改动不大，也可以先参考[原项目文档](https://wiki.sponsor.ajay.app/w/API_Docs)。
+Ten projekt nie wprowadza większych zmian w interfejsie API, dlatego możesz najpierw zapoznać się z [oryginalną dokumentacją projektu](https://wiki.sponsor.ajay.app/w/API_Docs).
 
-# 搭建项目
+# Budowanie projektu
 
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+Przeczytaj [CONTRIBUTING.md](CONTRIBUTING.md)
 
-# 致谢
+# Podziękowanie
 
-感谢[ajayyy](https://github.com/ajayyy)创造的[SponsorBlock](https://github.com/ajayyy/SponsorBlock)给我的启发！
+https://github.com/hanydd/BilibiliSponsorBlock
+https://github.com/ajayyy/SponsorBlock
 
-### 开源协议
+### Umowa o otwartym kodzie źródłowym
 
-本项目遵循 GNU GPL v3 开源协议。
+Ten projekt jest zgodny z umową o otwartym kodzie źródłowym GNU GPL v3.
